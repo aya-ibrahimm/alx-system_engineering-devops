@@ -1,0 +1,1 @@
+ dir of shell basics
